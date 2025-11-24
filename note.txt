@@ -1,0 +1,3 @@
+✅ Short, Professional Resume Description
+
+Advanced Password Strength Checker — Developed a fully interactive web tool that evaluates password strength in real time with crack-time estimation, requirement checking, character analysis, and animated visual feedback. Added a built-in password generator, history tracking, and a modern, fully animated UI.
